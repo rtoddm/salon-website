@@ -1,0 +1,16 @@
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.bak
+
+# Logs
+*.log
+
+# Env files (just in case you add one)
+.env
