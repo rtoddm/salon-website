@@ -13,5 +13,5 @@ Note: This version is **desktop-only**.
 ## Contact
 For inquiries or freelance work:  
 - Portfolio: https://toddmoussallem.com  
-- LinkedIn: (https://www.linkedin.com/in/todd-m-1a7aa8215/) 
+- LinkedIn: https://www.linkedin.com/in/todd-m-1a7aa8215/ 
 - Email: rtoddm@gmail.com
